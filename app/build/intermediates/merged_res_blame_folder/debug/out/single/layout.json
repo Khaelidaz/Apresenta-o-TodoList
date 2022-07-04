@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\12269950631\\Downloads\\ToDoListAvaliacao-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_main_category.xml",
+        "source": "C:\\Users\\12269950631\\Downloads\\ToDoListAvaliacao-master\\app\\src\\main\\res\\layout\\fragment_main_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\12269950631\\Downloads\\ToDoListAvaliacao-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\12269950631\\Downloads\\ToDoListAvaliacao-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\12269950631\\Downloads\\ToDoListAvaliacao-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_category.xml",
+        "source": "C:\\Users\\12269950631\\Downloads\\ToDoListAvaliacao-master\\app\\src\\main\\res\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\12269950631\\Downloads\\ToDoListAvaliacao-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_main.xml",
+        "source": "C:\\Users\\12269950631\\Downloads\\ToDoListAvaliacao-master\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\12269950631\\Downloads\\ToDoListAvaliacao-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "C:\\Users\\12269950631\\Downloads\\ToDoListAvaliacao-master\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\12269950631\\Downloads\\ToDoListAvaliacao-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_task.xml",
+        "source": "C:\\Users\\12269950631\\Downloads\\ToDoListAvaliacao-master\\app\\src\\main\\res\\layout\\fragment_task.xml"
+    }
+]

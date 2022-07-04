@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">200dp</dimen>
+    <string name="category_description">Descrição da categoria</string>
+    <string name="category_saved">Categoria Salva</string>
+</resources>

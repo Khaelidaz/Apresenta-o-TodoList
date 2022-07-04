@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="edit_texts_height">50dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin_to_action_bar">32dp</dimen>
+    <string name="action_categories">Categorias</string>
+    <string name="app_name">Tarefas</string>
+    <string name="category_deleted">Categoria Excluida</string>
+    <string name="category_description">Descrição da categoria</string>
+    <string name="category_description_empty">Descrição da categoria não pode ser vazia</string>
+    <string name="category_fragment_title">Cadastrar categoria</string>
+    <string name="category_main_fragment_title">Listagem de categorias</string>
+    <string name="category_saved">Categoria Salva</string>
+    <string name="delete_category">Excluir categoria</string>
+    <string name="delete_task">Concluir Tafera</string>
+    <string name="error_exclusao">A categoria não poderá ser excluída, há vinculo com uma ou mais tarefas</string>
+    <string name="fab_description">Adiconar Tarefa</string>
+    <string name="main_fragment_title">Tarefas</string>
+    <string name="save_task">Salvar</string>
+    <string name="task_category_not_empty">Crie ou escolhe uma categoria</string>
+    <string name="task_date">Limite</string>
+    <string name="task_description">Descrição da Atividade</string>
+    <string name="task_description_empty">Não pode haver descrição nula</string>
+    <string name="task_done">Tarefa concluída</string>
+    <string name="task_fragment_title">Cadastrar tarefa</string>
+    <string name="task_saved">Tarefa salva</string>
+    <string name="task_updated">Tarefa atualizada</string>
+    <string name="title_activity_form">Cadastrar Atividade</string>
+    <style name="Theme.TodoListDois" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Theme.TodoListDois.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.TodoListDois.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.TodoListDois.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>
