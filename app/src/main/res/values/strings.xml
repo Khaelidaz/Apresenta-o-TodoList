@@ -13,15 +13,15 @@
     <string name="task_description">Descrição da Atividade</string>
     <string name="save_task">Salvar</string>
     <string name="task_saved">Tarefa salva</string>
-    <string name="task_description_empty">Não pode haver descrição nula</string>
+    <string name="task_description_empty">Não pode ser nulo</string>
     <string name="task_date">Limite</string>
     <string name="fab_description">Adiconar Tarefa</string>
     <string name="category_saved">Categoria Salva</string>
     <string name="category_deleted">Categoria Excluida</string>
     <string name="category_fragment_title">Cadastrar categoria</string>
     <string name="category_description_empty">Descrição da categoria não pode ser vazia</string>
-    <string name="category_main_fragment_title">Listagem de categorias</string>
-    <string name="error_exclusao">A categoria não poderá ser excluída, há vinculo com uma ou mais tarefas</string>
+    <string name="category_main_fragment_title">Criação de categorias</string>
+    <string name="error_exclusao">A categoria não poderá ser excluída, pois tem vinculo</string>
 
 
 
